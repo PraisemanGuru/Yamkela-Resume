@@ -1,5 +1,8 @@
 # Yamkela-Resume
-My Updated Resume
+# 📖 About
+
+A modern, responsive portfolio website showcasing my professional experience as a **C# Full Stack Developer**. This portfolio highlights my technical skills, work experience, education, and contact information.
+
 # Features
 🎯 Fixed Navigation Bar - Smooth scrolling navigation to each section
 
